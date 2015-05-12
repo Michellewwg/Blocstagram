@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "FEE055D61B0179D700C77F1A"
+               BlueprintIdentifier = "FE6760D41B0180D5007476B0"
                BuildableName = "Blocstagram.app"
                BlueprintName = "Blocstagram"
                ReferencedContainer = "container:Blocstagram.xcodeproj">
@@ -28,7 +28,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "FEE055EF1B0179D700C77F1A"
+               BlueprintIdentifier = "FE6760ED1B0180D5007476B0"
                BuildableName = "BlocstagramTests.xctest"
                BlueprintName = "BlocstagramTests"
                ReferencedContainer = "container:Blocstagram.xcodeproj">
@@ -46,7 +46,7 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "FEE055EF1B0179D700C77F1A"
+               BlueprintIdentifier = "FE6760ED1B0180D5007476B0"
                BuildableName = "BlocstagramTests.xctest"
                BlueprintName = "BlocstagramTests"
                ReferencedContainer = "container:Blocstagram.xcodeproj">
@@ -56,7 +56,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "FEE055D61B0179D700C77F1A"
+            BlueprintIdentifier = "FE6760D41B0180D5007476B0"
             BuildableName = "Blocstagram.app"
             BlueprintName = "Blocstagram"
             ReferencedContainer = "container:Blocstagram.xcodeproj">
@@ -76,7 +76,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "FEE055D61B0179D700C77F1A"
+            BlueprintIdentifier = "FE6760D41B0180D5007476B0"
             BuildableName = "Blocstagram.app"
             BlueprintName = "Blocstagram"
             ReferencedContainer = "container:Blocstagram.xcodeproj">
@@ -95,7 +95,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "FEE055D61B0179D700C77F1A"
+            BlueprintIdentifier = "FE6760D41B0180D5007476B0"
             BuildableName = "Blocstagram.app"
             BlueprintName = "Blocstagram"
             ReferencedContainer = "container:Blocstagram.xcodeproj">
