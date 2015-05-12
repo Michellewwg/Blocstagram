@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  ImagesTableViewController.h
 //  Blocstagram
 //
 //  Created by Michelle Rutherford on 5/11/15.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface ImagesTableViewController : UITableViewController
 
 @end
-
