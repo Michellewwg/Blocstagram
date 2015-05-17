@@ -64,7 +64,8 @@ static NSParagraphStyle *paragraphStyle;
     boldFont = [UIFont fontWithName:@"HelveticaNeue-Bold" size:11];
     usernameLabelGray = [UIColor colorWithRed:0.933 green:0.933 blue:0.933 alpha:1];
     /*#eeeeee*/
-    commentLabelGray = [UIColor colorWithRed:0.898 green:0.898 blue:0.898 alpha:1];
+    // commentLabelGray = [UIColor colorWithRed:0.898 green:0.898 blue:0.898 alpha:1];
+  commentLabelGray = [UIColor orangeColor];
     /*#e5e5e5*/
     linkColor = [UIColor colorWithRed:0.345 green:0.314 blue:0.427 alpha:1]; /*#58506d*/
     
