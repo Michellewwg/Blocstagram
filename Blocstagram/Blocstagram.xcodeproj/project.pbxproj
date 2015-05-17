@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		FE1DF8401B079AC600CFC79F /* MediaTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = FE1DF83F1B079AC600CFC79F /* MediaTableViewCell.m */; };
 		FE6760DB1B0180D5007476B0 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = FE6760DA1B0180D5007476B0 /* main.m */; };
 		FE6760DE1B0180D5007476B0 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = FE6760DD1B0180D5007476B0 /* AppDelegate.m */; };
 		FE6760E41B0180D5007476B0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FE6760E21B0180D5007476B0 /* Main.storyboard */; };
@@ -41,6 +42,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		FE1DF83E1B079AC600CFC79F /* MediaTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MediaTableViewCell.h; sourceTree = "<group>"; };
+		FE1DF83F1B079AC600CFC79F /* MediaTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MediaTableViewCell.m; sourceTree = "<group>"; };
 		FE6760D51B0180D5007476B0 /* Blocstagram.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Blocstagram.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FE6760D91B0180D5007476B0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		FE6760DA1B0180D5007476B0 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -130,6 +133,8 @@
 				FEF78F631B07884600A7929C /* DataSource.m */,
 				FEF78F651B078EE100A7929C /* Comment.h */,
 				FEF78F661B078EE100A7929C /* Comment.m */,
+				FE1DF83E1B079AC600CFC79F /* MediaTableViewCell.h */,
+				FE1DF83F1B079AC600CFC79F /* MediaTableViewCell.m */,
 			);
 			path = Blocstagram;
 			sourceTree = "<group>";
@@ -289,6 +294,7 @@
 			files = (
 				FEF78F671B078EE100A7929C /* Comment.m in Sources */,
 				FEF78F5E1B0785DE00A7929C /* User.m in Sources */,
+				FE1DF8401B079AC600CFC79F /* MediaTableViewCell.m in Sources */,
 				FEF78F611B0786B500A7929C /* Media.m in Sources */,
 				FEF78F641B07884600A7929C /* DataSource.m in Sources */,
 				FE6760DE1B0180D5007476B0 /* AppDelegate.m in Sources */,
