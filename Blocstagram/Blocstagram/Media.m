@@ -8,6 +8,7 @@
 
 #import "Media.h"
 #import "Comment.h"
+#import "User.h"
 
 @implementation Media
 - (instancetype) initWithDictionary:(NSDictionary *)mediaDictionary {

@@ -10,6 +10,7 @@
 #import "Media.h"
 #import "Comment.h"
 #import "User.h"
+
 @interface MediaTableViewCell ()
 
 @property (nonatomic, strong) UIImageView *mediaImageView;
