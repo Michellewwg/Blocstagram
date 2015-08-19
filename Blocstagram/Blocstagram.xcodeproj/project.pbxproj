@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		4276BE21A21569ACFCB0C14E /* libPods.a in Frameworks */ = {isa = PBXBuildFile; fileRef = E2C08E3B80FE7A7508EF6A40 /* libPods.a */; };
 		FE1DF8401B079AC600CFC79F /* MediaTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = FE1DF83F1B079AC600CFC79F /* MediaTableViewCell.m */; };
+		FE3E8C3A1B84087E00087CE4 /* UserTests.m in Sources */ = {isa = PBXBuildFile; fileRef = FE3E8C391B84087E00087CE4 /* UserTests.m */; };
 		FE41971C1B80F9CC005CD2E3 /* PostToInstagramViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FE41971B1B80F9CC005CD2E3 /* PostToInstagramViewController.m */; };
 		FE629AC31B7ACE3300F12B7A /* CropBox.m in Sources */ = {isa = PBXBuildFile; fileRef = FE629AC21B7ACE3300F12B7A /* CropBox.m */; };
 		FE629AC61B7AD4B000F12B7A /* CropImageViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FE629AC51B7AD4B000F12B7A /* CropImageViewController.m */; };
@@ -60,6 +61,7 @@
 		E2C08E3B80FE7A7508EF6A40 /* libPods.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libPods.a; sourceTree = BUILT_PRODUCTS_DIR; };
 		FE1DF83E1B079AC600CFC79F /* MediaTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MediaTableViewCell.h; sourceTree = "<group>"; };
 		FE1DF83F1B079AC600CFC79F /* MediaTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MediaTableViewCell.m; sourceTree = "<group>"; };
+		FE3E8C391B84087E00087CE4 /* UserTests.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = UserTests.m; sourceTree = "<group>"; };
 		FE41971A1B80F9CC005CD2E3 /* PostToInstagramViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PostToInstagramViewController.h; sourceTree = "<group>"; };
 		FE41971B1B80F9CC005CD2E3 /* PostToInstagramViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PostToInstagramViewController.m; sourceTree = "<group>"; };
 		FE629AC11B7ACE3300F12B7A /* CropBox.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CropBox.h; sourceTree = "<group>"; };
@@ -237,6 +239,7 @@
 			children = (
 				FE6760F41B0180D5007476B0 /* BlocstagramTests.m */,
 				FE6760F21B0180D5007476B0 /* Supporting Files */,
+				FE3E8C391B84087E00087CE4 /* UserTests.m */,
 			);
 			path = BlocstagramTests;
 			sourceTree = "<group>";
@@ -438,6 +441,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FE3E8C3A1B84087E00087CE4 /* UserTests.m in Sources */,
 				FE6760F51B0180D5007476B0 /* BlocstagramTests.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
